@@ -1,0 +1,14 @@
+H:\visual studio 2017\Pratica 4\Pratica 4\bin\Debug\Pratica 4.exe.config
+H:\visual studio 2017\Pratica 4\Pratica 4\bin\Debug\Pratica 4.exe
+H:\visual studio 2017\Pratica 4\Pratica 4\bin\Debug\Pratica 4.pdb
+H:\visual studio 2017\Pratica 4\Pratica 4\obj\Debug\Pratica 4.csprojAssemblyReference.cache
+H:\visual studio 2017\Pratica 4\Pratica 4\obj\Debug\Pratica 4.csproj.CoreCompileInputs.cache
+H:\visual studio 2017\Pratica 4\Pratica 4\obj\Debug\Pratica 4.exe
+H:\visual studio 2017\Pratica 4\Pratica 4\obj\Debug\Pratica 4.pdb
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\obj\Debug\Pratica 4.csprojAssemblyReference.cache
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\obj\Debug\Pratica 4.csproj.CoreCompileInputs.cache
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\obj\Debug\Pratica 4.exe
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\obj\Debug\Pratica 4.pdb
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\bin\Debug\Pratica 4.exe.config
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\bin\Debug\Pratica 4.exe
+C:\Users\danbs\source\repos\PraticasAED1\MaxMin\bin\Debug\Pratica 4.pdb

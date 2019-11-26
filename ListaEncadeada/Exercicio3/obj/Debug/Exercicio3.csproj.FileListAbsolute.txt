@@ -1,0 +1,14 @@
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csprojAssemblyReference.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\obj\Debug\Exercicio3.csprojAssemblyReference.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\obj\Debug\Exercicio3.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Lista Encadeada\Exercicio3\bin\Debug\Exercicio3.pdb

@@ -1,0 +1,14 @@
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.exe.config
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.exe
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.pdb
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.csprojAssemblyReference.cache
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.csproj.CoreCompileInputs.cache
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.exe
+H:\visual studio 2017\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.exe.config
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\bin\Debug\CalculadoraPilha.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.csprojAssemblyReference.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.csproj.CoreCompileInputs.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\CalculadoraPilha\CalculadoraPilha\obj\Debug\CalculadoraPilha.pdb

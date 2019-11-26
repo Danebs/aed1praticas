@@ -1,0 +1,14 @@
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.exe.config
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.csprojAssemblyReference.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.csproj.CoreCompileInputs.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.pdb
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.exe.config
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.exe
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\bin\Debug\RestauranteFila.pdb
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.csprojAssemblyReference.cache
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.csproj.CoreCompileInputs.cache
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.exe
+C:\Users\danbs\source\repos\PraticasAED1\RestauranteFila\RestauranteFila\obj\Debug\RestauranteFila.pdb

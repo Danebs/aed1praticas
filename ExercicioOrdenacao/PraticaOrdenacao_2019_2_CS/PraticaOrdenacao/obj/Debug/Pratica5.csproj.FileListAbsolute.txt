@@ -1,0 +1,30 @@
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csprojAssemblyReference.cache
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+H:\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csprojAssemblyReference.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe.config
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.exe
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\bin\Debug\PraticaOrdenacao.pdb
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csprojAssemblyReference.cache
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.FormOrdenacao.resources
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.Properties.Resources.resources
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.GenerateResource.cache
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\Pratica5.csproj.CoreCompileInputs.cache
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.exe
+C:\Users\danbs\source\repos\PraticasAED1\Exercício de ordenação\PraticaOrdenacao_2019_2_CS\PraticaOrdenacao\obj\Debug\PraticaOrdenacao.pdb
