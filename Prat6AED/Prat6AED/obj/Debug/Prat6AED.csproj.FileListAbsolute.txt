@@ -1,0 +1,7 @@
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\bin\Debug\Prat6AED.exe.config
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\bin\Debug\Prat6AED.exe
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\bin\Debug\Prat6AED.pdb
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\obj\Debug\Prat6AED.csprojAssemblyReference.cache
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\obj\Debug\Prat6AED.csproj.CoreCompileInputs.cache
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\obj\Debug\Prat6AED.exe
+C:\Users\danbs\source\repos\Prat6AED\Prat6AED\obj\Debug\Prat6AED.pdb
