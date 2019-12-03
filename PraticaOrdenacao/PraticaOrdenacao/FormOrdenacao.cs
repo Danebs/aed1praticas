@@ -116,8 +116,7 @@ namespace Pratica5 {
         private void bolhaToolStripMenuItem1_Click_1(object sender, EventArgs e)
         {
             string preenchimento = "";
-            int tamanho = Convert.ToInt32(comboBox1.SelectedItem);
-            vet = new int[tamanho];
+            vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
 
             if (radioAsc.Checked)
             {
@@ -144,7 +143,7 @@ namespace Pratica5 {
 
 
             MessageBox.Show(this,
-                  "Tamanho do vetor: " + tamanho +
+                  "Tamanho do vetor: " + vet.Length +
                   "\nOrdenação Inicial: " + preenchimento +
                   "\n\nTempo de execução: " + String.Format("{0:F4} seg", elapsed_time / 1000.0) +
                   "\nNº de comparações: " + OrdenacaoEstatistica.contTest +
@@ -162,40 +161,17 @@ namespace Pratica5 {
         private void seleçãoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             string preenchimento = "";
-            int tamanho = Convert.ToInt32(comboBox1.SelectedItem);
-            vet = new int[tamanho];
-            if (comboBox1.SelectedIndex == 0)
-            {
-                vet = new int[1000];
-                Preenchimento.Aleatorio(vet, 1000);
-            }
-            else if (comboBox1.SelectedIndex == 1)
-            {
-                vet = new int[10000];
-                Preenchimento.Aleatorio(vet, 10000);
-            }
-            else if (comboBox1.SelectedIndex == 2)
-            {
-                vet = new int[50000];
-                Preenchimento.Aleatorio(vet, 50000);
-            }
-            else if (comboBox1.SelectedIndex == 3)
-            {
-                vet = new int[100000];
-                Preenchimento.Aleatorio(vet, 100000);
-            }
-            else if (comboBox1.SelectedIndex == 4)
-            {
-                vet = new int[500000];
-                Preenchimento.Aleatorio(vet, 500000);
-            }
+        
+            vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
+            Preenchimento.Aleatorio(vet, vet.Length);
+
             var stopwatch = new Stopwatch();
             stopwatch.Start(); // inicia cronômetro
             IniciarAnimacao(() => OrdenacaoEstatistica.SeletionSort(vet));
             stopwatch.Stop(); // interrompe cronômetro
             long elapsed_time = stopwatch.ElapsedMilliseconds; // calcula o tempo decorrido
             MessageBox.Show(this,
-                  "Tamanho do vetor: " + tamanho +
+                  "Tamanho do vetor: " + vet.Length +
                   "\nOrdenação inicial: " + preenchimento + 
                   "\n\nTempo de execução: " + String.Format("{0:F4} seg", elapsed_time / 1000.0) +
                   "\nNº de comparações: " + OrdenacaoEstatistica.contTest +
@@ -213,40 +189,16 @@ namespace Pratica5 {
         private void inserçãoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             string preenchimento = "";
-            int tamanho = Convert.ToInt32(comboBox1.SelectedItem);
-            vet = new int[tamanho];
-            if (comboBox1.SelectedIndex == 0)
-            {
-                vet = new int[1000];
-                Preenchimento.Aleatorio(vet, 1000);
-            }
-            else if (comboBox1.SelectedIndex == 1)
-            {
-                vet = new int[10000];
-                Preenchimento.Aleatorio(vet, 10000);
-            }
-            else if (comboBox1.SelectedIndex == 2)
-            {
-                vet = new int[50000];
-                Preenchimento.Aleatorio(vet, 50000);
-            }
-            else if (comboBox1.SelectedIndex == 3)
-            {
-                vet = new int[100000];
-                Preenchimento.Aleatorio(vet, 100000);
-            }
-            else if (comboBox1.SelectedIndex == 4)
-            {
-                vet = new int[500000];
-                Preenchimento.Aleatorio(vet, 500000);
-            }
+            vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
+            Preenchimento.Aleatorio(vet, vet.Length);
+            
             var stopwatch = new Stopwatch();
             stopwatch.Start(); // inicia cronômetro
             IniciarAnimacao(() => OrdenacaoEstatistica.InsertionSort(vet));
             stopwatch.Stop(); // interrompe cronômetro
             long elapsed_time = stopwatch.ElapsedMilliseconds; // calcula o tempo decorrido
             MessageBox.Show(this,
-                  "Tamanho do vetor: " + tamanho +
+                  "Tamanho do vetor: " + vet.Length +
                   "\nOrdenação inicial: " + preenchimento +
                   "\n\nTempo de execução: " + String.Format("{0:F4} seg", elapsed_time / 1000.0) +
                   "\nNº de comparações: " + OrdenacaoEstatistica.contTest +
@@ -265,7 +217,7 @@ namespace Pratica5 {
         {
             string preenchimento = "";
             vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
-            Preenchimento.Aleatorio(vet, 1000);
+            Preenchimento.Aleatorio(vet, vet.Length);
            
             var stopwatch = new Stopwatch();
             stopwatch.Start(); // inicia cronômetro
@@ -291,6 +243,7 @@ namespace Pratica5 {
         {
             string preenchimento = "";
             vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
+            Preenchimento.Aleatorio(vet, vet.Length);
             
             var stopwatch = new Stopwatch();
             stopwatch.Start(); // inicia cronômetro
@@ -316,7 +269,7 @@ namespace Pratica5 {
         {
             string preenchimento = "";
             vet = new int[Convert.ToInt32(comboBox1.SelectedValue)];
-            Preenchimento.Aleatorio(vet, 500000);
+            Preenchimento.Aleatorio(vet, vet.Length);
             
             var stopwatch = new Stopwatch();
             stopwatch.Start(); // inicia cronômetro
