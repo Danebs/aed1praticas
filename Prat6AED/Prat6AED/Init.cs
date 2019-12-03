@@ -53,7 +53,7 @@ namespace Pratica6
 
                             while ((line = file.ReadLine()) != null)
                             {
-                                string[] linhas = line.Split(';');
+                                string[] linhas = line.Split(';'); // Divide conteúda das linhas
                                 Aluno aluno = new Aluno();
                                 aluno.matricula = linhas[0];
                                 aluno.nome = linhas[1];
@@ -107,7 +107,7 @@ namespace Pratica6
             Console.ReadLine();
         }
 
-
+        // Ordena disciplinas em ordem alfabética
         static string[] OrdernaMaterias(string[] materias)
         {
             StringComparer comparador = StringComparer.OrdinalIgnoreCase;

@@ -25,20 +25,20 @@ namespace MaxMin
             PreencheDecrescente(ref vetDec);
             PreencheCrescente(ref vetCre);
 
-            Console.WriteLine("\n\n=== Teste MaxMin 1 ===");
-            Console.WriteLine("\t{0}", m.MaxMin1(vetCre, cont));
-            Console.WriteLine("\t{0}", m.MaxMin1(vetDec, cont));
-            Console.WriteLine("\t{0}", m.MaxMin1(vetRand, cont));
+            Console.WriteLine("\n\n=== Quantidade de Testes MaxMin 1 ===");
+            Console.WriteLine("| Teste 1 Vet Crescente: {0}", m.MaxMin1(vetCre, cont));
+            Console.WriteLine("| Teste 1 Vet Decrescente: {0}", m.MaxMin1(vetDec, cont));
+            Console.WriteLine("| Teste 1 Vet Aleatório: {0}", m.MaxMin1(vetRand, cont));
 
             Console.WriteLine("\n\n=== Teste MaxMin 2 ===");
-            Console.WriteLine("\t{0}", m.maxMin2(vetCre, cont));
-            Console.WriteLine("\t{0}", m.maxMin2(vetDec, cont));
-            Console.WriteLine("\t{0}", m.maxMin2(vetRand, cont));
-  
+            Console.WriteLine("| Teste 2 Vet Crescente: {0}", m.MaxMin2(vetCre, cont));
+            Console.WriteLine("| Teste 2 Vet Decrescente: {0}", m.MaxMin2(vetDec, cont));
+            Console.WriteLine("| Teste 2 Vet Aleatório: {0}", m.MaxMin2(vetRand, cont));
+
             Console.WriteLine("\n\n===Teste MaxMin 3");
-            Console.WriteLine("\t{0}", m.maxMin3(vetCre, cont));
-            Console.WriteLine("\t{0}", m.maxMin3(vetDec, cont));
-            Console.WriteLine("\t{0}", m.maxMin3(vetRand, cont));
+            Console.WriteLine("| Teste 3 Vet Crescente: {0}", m.MaxMin3(vetCre, cont));
+            Console.WriteLine("| Teste 3 Vet Decrescente: {0}", m.MaxMin3(vetDec, cont));
+            Console.WriteLine("| Teste 3 Vet Aleatório: {0}", m.MaxMin3(vetRand, cont));
 
             Console.ReadKey();
         }

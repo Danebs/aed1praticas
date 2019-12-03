@@ -11,6 +11,8 @@ namespace MaxMin
 
         // Operação relevante: TESTES (if)
         // T(n) = 2n - 2
+        // Params: int[] vet --- vetor a ser ordenado 
+        // Params: int c ---- contador de testes
         public int MaxMin1(int[] vet, int c)
         {
            
@@ -34,9 +36,11 @@ namespace MaxMin
         // Melhor caso: T(n) = n - 1
         // Pior caso: T(n) = 2n - 2
         // Caso médio: T(n) = 3n/2 - 3/2
-        public int maxMin2(int[] vet, int c)
+        // Params: int[] vet --- vetor a ser ordenado 
+        // Params: int c ---- contador de testes
+        public int MaxMin2(int[] vet, int c)
         {
-            int maior, menor, cont = 0;
+            int maior, menor;
             int i;
             maior = menor = vet[0];
             for (i = 1; i < vet.Length; i++)
@@ -58,10 +62,13 @@ namespace MaxMin
         }
 
         // T(n) = 3n/2 - 2
-        public int maxMin3(int[] vet, int c )
+        // Params: int[] vet --- vetor a ser ordenado 
+        // Params: int c ---- contador de testes
+        public int MaxMin3(int[] vet, int c )
         {
             int maior, menor;
             int i;
+
             c++;
             if (vet[0] < vet[1])
             {
@@ -73,6 +80,7 @@ namespace MaxMin
                 menor = vet[1];
                 maior = vet[0];
             }
+
             for (i = 2; i < vet.Length; i += 2)
             {
                 c++;
@@ -81,6 +89,7 @@ namespace MaxMin
                     c++;
                     if (vet[i] < menor)
                         menor = vet[i];
+
                     c++;
                     if (vet[i + 1] > maior)
                         maior = vet[i + 1];
@@ -90,6 +99,7 @@ namespace MaxMin
                     c++;
                     if (vet[i + 1] < menor)
                         menor = vet[i + 1];
+
                     c++;
                     if (vet[i] > maior)
                         maior = vet[i];

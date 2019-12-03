@@ -14,19 +14,19 @@ namespace RestauranteFila
         {
             int clienteAtual = 0;
             int cliente = 0;
-            Fila f1 = new Fila(100);
-            Fila f2 = new Fila(100);
-            Fila f3 = new Fila(100);
+            Fila fila1 = new Fila(100); // Fila Pedidos
+            Fila fila2 = new Fila(100); // Fila Pagamentos
+            Fila fila3 = new Fila(100); // Fila Encomendas
 
             do
             {
                 Console.Clear();
                 Console.WriteLine("\n|| Menu de ações:");
                 Console.WriteLine("\n|| 1 - Inserir CLiente na fila de pedidos");
-                Console.WriteLine("\n||2 - Remover Cliente da fila de pedidos");
-                Console.WriteLine("\n||3 - Remover Cliente da fila de pagamentos");
-                Console.WriteLine("\n||4 - Remover cliente da fila de encomendas");
-                Console.WriteLine("\n||5 - Sair");
+                Console.WriteLine("\n|| 2 - Remover Cliente da fila de pedidos");
+                Console.WriteLine("\n|| 3 - Remover Cliente da fila de pagamentos");
+                Console.WriteLine("\n|| 4 - Remover cliente da fila de encomendas");
+                Console.WriteLine("\n|| 5 - Sair");
                 Console.Write("\n\tPressiona a tecla correspondente a sua escolha:");
                 opc = Console.ReadKey();
             
@@ -34,22 +34,33 @@ namespace RestauranteFila
                 {
                     case ConsoleKey.D1:
                         cliente++;
-                        f1.Inserir(cliente);
+                        fila1.Inserir(cliente);
                         Console.WriteLine("\n\n\t\t==== Cliente {0} ====\n - Entrou na ||| Fila de pedidos |||", cliente);
                         break;
                     case ConsoleKey.D2:
-                        clienteAtual = f1.desenfileirar();
+                        if (fila2.cheia())
+                        {
+                            Console.WriteLine("\n\n\tFila de pagamentos cheia!!! Saia da fila e tente novamente");
+                            break;
+                        }
+
+                        clienteAtual = fila1.desenfileirar();
                         Console.WriteLine("\n\n\t\t==== O cliente {0} ====\n\n - Saiu da fila de pedidos e entrou na ||| Fila de Pagamentos |||", clienteAtual);
-                        f2.Inserir(clienteAtual);
-                        
+                        fila2.Inserir(clienteAtual); // insere na fila 2
                         break;
                     case ConsoleKey.D3:
-                        clienteAtual = f2.desenfileirar();
+                        if (fila3.cheia())
+                        {
+                            Console.WriteLine("\n\n\tFila de encomendas cheia!!! Espere a remoção de alguém e tente novamente");
+                            break;
+                        }
+
+                        clienteAtual = fila2.desenfileirar();
                         Console.WriteLine("\n\n\t\t==== O cliente {0} ====\n\n - Saiu da fila de pagamentos e entrou na ||| Fila de encomendas  |||", clienteAtual);
-                        f3.Inserir(clienteAtual);
+                        fila3.Inserir(clienteAtual);
                         break;
                     case ConsoleKey.D4:
-                        clienteAtual = f3.desenfileirar();
+                        clienteAtual = fila3.desenfileirar();
                         Console.WriteLine("\n\n\t\t==== O cliente {0} ====\n - Pegou recebeu o pedido !!", clienteAtual);
                         break;
                     case ConsoleKey.D5:

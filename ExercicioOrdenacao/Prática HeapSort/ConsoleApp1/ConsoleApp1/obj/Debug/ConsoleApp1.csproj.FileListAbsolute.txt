@@ -1,7 +1,0 @@
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\JOTAv\Desktop\Faculdade\2_2019\AED\SALA\Exercício de ordenação\Prática HeapSort\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
